@@ -25,7 +25,7 @@ projects:
   exclude:
     forks: true
     projects:
-    - News-app---MVVM
+#     - News-app---MVVM
 
 # social_media:
   # behance: your_username
