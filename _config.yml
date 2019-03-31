@@ -18,14 +18,14 @@ defaults:
 
 projects:
   sort_by: pushed
-  # sort_by options:
-  #   - pushed
+#   sort_by options:
+#     - pushed
   #   - stars
   limit: 9
   exclude:
     forks: true
     projects:
-    # - repo-name
+    - News-app---MVVM
 
 # social_media:
   # behance: your_username
